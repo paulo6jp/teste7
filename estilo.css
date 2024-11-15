@@ -1,0 +1,95 @@
+.container-fluid{
+    background-color: rgb(98, 53, 124);
+    padding-top: 10px;
+    max-width: 100%;
+   
+   
+}
+
+.cor-branco{
+    background-color: #ffffff;
+}
+
+
+.logo{
+    position: relative;
+    color: antiquewhite;
+    top: 1px;
+    text-align: center;
+}
+
+
+.listas{
+    text-align: center;
+    
+}
+
+
+#link{
+    position: relative;
+    margin: 10px 10px;
+    color: aliceblue;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+#link:hover{
+    color: blueviolet;
+}
+
+
+.eu .container{
+    position: absolute;
+    background-color: hsl(0, 0%, 100%);
+    margin-left: 1%; 
+
+}
+
+.nome{
+    text-align: center;
+    color: blueviolet;
+    
+    
+}
+.borda{
+    border: rgb(3, 3, 3) 1px solid;
+}
+
+.foto{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.descricao{
+    position: relative;
+    text-align: center;
+    
+}
+
+.trabalho{
+    max-width: 100%;
+
+
+}
+
+.trabalho .servico-descricao{
+    position: relative;
+    text-align: center;
+    color: #7d33c7;
+}
+
+.imagem{
+    border-radius: 50px;
+    width: 300px;
+    left: 15px;
+    text-align: center;
+    font-size: 20px;
+}
+
+body {
+    background-color: #f0f8ff; /* Cor de fundo azul claro */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    
+}
